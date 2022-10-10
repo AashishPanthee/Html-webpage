@@ -1,0 +1,137 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body,
+html {
+  height: 100%;
+  font-size: 16px;
+  font-family: "Lato", sans-serif;
+  font-weight: 400;
+  line-height: 1.8em;
+}
+.aashish {
+  background-image: url(computer.png);
+  height: 100%;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  position: relative;
+  opacity: 0.7;
+}
+.panthee {
+  position: absolute;
+  top: 50%;
+  width: 100%;
+  justify-content: center;
+  text-align: center;
+}
+
+.hello {
+  color: #fff;
+  background-color: #666;
+  padding: 20px !important;
+  letter-spacing: 8px;
+  font-size: 25px;
+  text-transform: uppercase;
+  border-radius: 3px;
+}
+.sagar {
+  text-align: center;
+  padding: 30px;
+  letter-spacing: 1px;
+}
+.sagar > h2 {
+  padding: 20px;
+}
+.sumit {
+  background-image: url(photo.jpg);
+  height: 100%;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  position: relative;
+  opacity: 0.7;
+}
+.thapa {
+  position: absolute;
+  top: 50%;
+  width: 100%;
+  text-align: center;
+}
+.jung {
+  color: #fff;
+  background-color: #666;
+  padding: 20px !important;
+  font-size: 25px;
+  font-weight: 700;
+  letter-spacing: 20px;
+  text-transform: uppercase;
+  border-radius: 3px;
+}
+.anisha {
+  text-align: center;
+  padding: 30px;
+  letter-spacing: 1px;
+}
+.anisha > h2 {
+  padding: 20px;
+}
+.shristi {
+  background-image: url(download.png);
+  height: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  position: relative;
+  opacity: 0.6;
+}
+.pandey {
+  text-transform: uppercase;
+  top: 50%;
+  position: absolute;
+  width: 100%;
+  text-align: center;
+}
+.tandey {
+  color: #fff;
+  background-color: #666;
+  padding: 20px !important;
+  font-size: 25px;
+  font-weight: 700;
+  letter-spacing: 20px;
+  text-transform: uppercase;
+  border-radius: 3px;
+}
+.nisha {
+  text-align: center;
+  padding: 30px;
+  letter-spacing: 1px;
+}
+.nisha > h2 {
+  padding: 20px;
+}
+.ashish {
+  background-image: url(aryal.png);
+  height: 100%;
+  background-position: center;
+  background-attachment: fixed;
+  position: relative;
+  opacity: 0.8;
+}
+.aryal {
+  top: 50%;
+  position: absolute;
+  width: 100%;
+  text-align: center;
+}
+.kharel {
+  text-transform: uppercase;
+  color: #fff;
+  background-color: #666;
+  padding: 20px !important;
+  font-size: 25px;
+  font-weight: 700;
+  letter-spacing: 20px;
+  border-radius: 3px;
+}
